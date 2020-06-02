@@ -316,6 +316,11 @@ footer section hr {
         position: relative;
         margin-top: 10px;
     }
+    
+    #timeTableContainer {
+        margin: 0;
+        padding: 10px;
+    }
 }
 @media (max-width: 479px) {
     .navbar-brand h1 {
@@ -326,5 +331,10 @@ footer section hr {
         font-size: larger;
         position: relative;
         margin-top: 10px;
+    }
+    
+    #timeTableContainer {
+        margin: 0;
+        padding: 0;
     }
 }
